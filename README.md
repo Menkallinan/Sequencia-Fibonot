@@ -39,7 +39,7 @@ A saída consiste em um único inteiro representando o **K-ésimo** termo da Seq
 2. Salve o código em um arquivo chamado `fibonot.py`.
 3. Execute o script no terminal ou prompt de comando:
    ```sh
-   python fibonot.py
+   python3 fibonot.py
    ```
 4. Insira o valor de **K** e pressione **Enter** para obter o resultado.
 
