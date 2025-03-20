@@ -23,7 +23,7 @@ A entrada consiste em um único inteiro **K** (**1 ≤ K ≤ 10⁵**), represent
 
 ### Exemplo de Entrada:
 ```
-10
+9
 ```
 
 ## Saída
@@ -31,7 +31,7 @@ A saída consiste em um único inteiro representando o **K-ésimo** termo da Seq
 
 ### Exemplo de Saída:
 ```
-19
+15
 ```
 
 ## Como Executar
